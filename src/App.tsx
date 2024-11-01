@@ -9,7 +9,7 @@ export function App() {
     <>
       <div className="flex w-full min-h-screen bg-[#DCE3F4]">
 
-        <div className="flex flex-col min-h-full w-full items-center gap-6 m-4 rounded-2xl py-6 px-10 bg-[#EDF3FA]">
+        <div className="max-w-screen-lg mx-auto px-4 py-6 flex flex-col min-h-full w-full items-center gap-6 m-4 rounded-2xl bg-[#EDF3FA]">
           
           <Header />
           <BannerSection />

@@ -1,7 +1,7 @@
 
 export function BannerSection() {
     return (
-        <section className="flex flex-col justify-around gap-6 w-fit sm:w-full flex-wrap min-h-fit self-center items-center text-left backdrop-blur border-2 py-6 px-6 border-white rounded-xl bg-gradient-to-r from-indigo-200 via-indigo-50 to-indigo-200 
+        <section className="flex flex-col justify-around gap-6 w-fit sm:w-full flex-wrap min-h-fit self-center items-center text-left backdrop-blur border-2 py-6 px-6 border-white rounded-2xl bg-gradient-to-r from-indigo-200 via-indigo-50 to-indigo-200 
         sm:flex-row sm:gap-10">
 
             <div className="flex flex-col drop-shadow-md text-center text-pretty justify-center text-lg sm:text-2xl gap-1 border-2 px-8 py-4 bg-white bg-opacity-80 border-white rounded-md text-zinc-800 font-semibold font-poppins 

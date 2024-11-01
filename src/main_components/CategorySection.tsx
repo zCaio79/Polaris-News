@@ -4,7 +4,7 @@ import { CategoryBtn } from "../style_components/inputs/CategoryBtn"
 export function CategorySection(){
     return (
         <>
-            <section className=" flex backdrop-blur w-full itens-center font gap-6 border-2 px-10 py-6 justify-center items-center flex-col border-white rounded-xl  bg-gradient-to-r from-indigo-200 via-indigo-50 to-indigo-200">
+            <section className=" flex backdrop-blur w-full itens-center font gap-6 border-2 px-10 py-6 justify-center items-center flex-col border-white rounded-2xl  bg-gradient-to-r from-indigo-200 via-indigo-50 to-indigo-200">
 
                 <h2 className="font-poppins drop-shadow-md text-zinc-900">Article Categories</h2>
 
